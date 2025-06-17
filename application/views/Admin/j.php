@@ -115,7 +115,8 @@ background: linear-gradient(180deg, rgba(106, 15, 224, 0.47) 0%, rgba(95, 72, 12
 <div class="container-fluid p-0">
   <div class="row g-0">
 
-    <!-- Sidebar -->
+    <!-- Sidebar is  -->
+     <h1>hello</h1>
     <div class="col-md-2 d-md-block bg-purple text-white" id="sidebar">
       <?php include 'sidebar.php'; ?>
     </div>
